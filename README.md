@@ -176,7 +176,7 @@ O `Agente` automaticamente importará a nova skill, mapeará seu uso nas chamada
 
 ## 📝 Licença
 
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` (se disponível) para obter mais detalhes.
+Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para obter mais detalhes.
 
 ---
 *Desenvolvido com carinho para ser seu assistente meteorológico inteligente de bolso! 🌤️🤖*
