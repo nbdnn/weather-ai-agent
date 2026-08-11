@@ -69,7 +69,7 @@ Siga as instruções abaixo para configurar e rodar o projeto localmente.
 
 1. Clone o repositório em sua máquina:
    ```bash
-   git clone <link-do-seu-repositorio>
+   git clone https://github.com/nbdnn/weather-ai-agent.git
    cd projetos_ai
    ```
 
