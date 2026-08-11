@@ -1,0 +1,13 @@
+{
+    // Desativa completamente a extensão oficial do Flake8 neste workspace
+    "flake8.enabled": false,
+
+    // Define o Ruff como o organizador de imports e o formatador padrão
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.codeActionsOnSave": {
+            "source.fixAll.ruff": "explicit",
+            "source.organizeImports.ruff": "explicit"
+        }
+    }
+}
